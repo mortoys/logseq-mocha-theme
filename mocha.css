@@ -1268,7 +1268,7 @@ html[data-theme="dark"] .keyboard-shortcut>code {
 }
 
 .cm-s-solarized.cm-s-light {
-	background-color: #292a2b !important;
+	background-color: #fff !important;
 	color: #dadada;
 	text-shadow: none;
 }
